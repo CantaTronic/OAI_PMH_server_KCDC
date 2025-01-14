@@ -1,0 +1,24 @@
+<record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"><header><identifier>oai:doi.org/10.17616/R3TS4P</identifier><datestamp>2024-12-17</datestamp><setSpec>astrophysics</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>KASCADE_ReducedData_runs_4685-7417_HDF5</dc:title><dc:creator>Institute for Astroparticle Physics, Karlsruhe Institute of Technology</dc:creator><dc:publisher>KASCADE Cosmic Ray Data Centre (KCDC)</dc:publisher><dc:date>2020-05-06</dc:date><dc:type>Reconstructed events</dc:type><dc:subject>Cosmic rays &amp; astroparticles</dc:subject><dc:identifier>https://doi.org/10.17616/R3TS4P</dc:identifier><dc:language>en</dc:language><dc:format>Size: 11.273 MB</dc:format><dc:format>Format: HDF5</dc:format><dc:version>NABOO</dc:version><dc:contributor>СontributorName: KASCADE-Grande Collaboration</dc:contributor><dc:contributor>Affiliation: Karlsruhe Institute of Technology (https://ror.org/04t3en479)</dc:contributor><dc:description>Abstract: Analysing data of the GRANDE Array only</dc:description><dc:description>Table of Contents: Data file names / sizes events.h5 / 2480 MB</dc:description><dc:description>TechnicalInfo: KASCADE quantities selected
+Quantity |       Description        |       Range       |    Cut    
+---------+--------------------------+-------------------+-----------
+   E     | Estimated primary energy |   1013 -1019 eV   | full range
+   Xc    |     X-core position      |    -91 - +91 m    | full range
+   Yc    |     Y-core position      |    -91 - +91 m    | full range
+   Ze    |       Zenith angle       |     0° - 60°      | full range
+   Az    |      Azimuth angle       |     0° - 360°     | full range
+   Ne    | Number of e/particles  | 100 - 500,000,000 | full range
+  Nmu    |     Number of Muons      | 100 - 50,000,000  | full range
+  Age    |        Shower age        |    0.1 – 1.48     | full range
+         |                          |                   |           
+
+general quantities selected
+ Quantity  |            Description             |        Range         |       Cut      
+-----------+------------------------------------+----------------------+----------------
+    T      |          Air temperature           |     -20 ° - +50°     |   full range   
+    P      |            Air pressure            |    960 -1040 hPa     |   full range   
+    Gt     | Global time (sec’s since 1.1.1970) |   1,017,887,940 –    |  1,358,239,243 
+   cut     |                 Mt                 |      Micro time      | 0 – 999,999,999
+full range |        DateTime Date &amp; Time        | 20.12.2003-15.1.2013 |       cut      
+    R      |             Run number             |     4685 - 7417      |       cut      
+    Ev     |            Event number            |    1 – 4,100,000     |   full range   
+           |                                    |                      |                </dc:description><dc:rights>End User Licence Agreement for using the KCDC IAP webportal and the KCDC data (EULA)</dc:rights><dc:rights xsi:type="dcterms:URI">https://kcdc.iap.kit.edu/static/pdf/kcdc_mainpage/EULA.pdf</dc:rights></oai_dc:dc></metadata></record>
