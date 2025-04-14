@@ -5,23 +5,23 @@ from datetime import datetime
 from services.get_record import BASE_XML_DIRECTORY
 
 list_identifiers_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="ListIdentifiers" metadataPrefix="{{ metadata_prefix }}">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="ListIdentifiers" metadataPrefix="{{ metadata_prefix }}">
         {{ base_url }}
-    </oai:request>
-    <oai:ListIdentifiers>
+    </request>
+    <ListIdentifiers>
         {% for identifier in identifiers %}
-        <oai:header>
-            <oai:identifier>{{ identifier }}</oai:identifier>
-            <oai:datestamp>{{ datestamp }}</oai:datestamp>
-        </oai:header>
+        <header>
+            <identifier>{{ identifier }}</identifier>
+            <datestamp>{{ datestamp }}</datestamp>
+        </header>
         {% endfor %}
-    </oai:ListIdentifiers>
-</oai:OAI-PMH>
+    </ListIdentifiers>
+</OAI-PMH>
 """
 
 
@@ -38,7 +38,7 @@ def get_identifiers_from_directory(directory):
 
 
 def list_identifiers(base_url, metadata_prefix):
-    identifiers = get_identifiers_from_directory(BASE_XML_DIRECTORY)
+    identifiers = get_identifiers_from_directory(f'{BASE_XML_DIRECTORY}/{metadata_prefix}')
 
     context = {
         "response_date": datetime.utcnow().isoformat() + "Z",

@@ -4,24 +4,24 @@ from jinja2 import Template
 from lxml import etree
 
 identify_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="Identify">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="Identify">
         {{ base_url }}
-    </oai:request>
-    <oai:Identify>
-        <oai:repositoryName>{{ repository_name }}</oai:repositoryName>
-        <oai:baseURL>{{ base_url }}</oai:baseURL>
-        <oai:protocolVersion>{{ protocol_version }}</oai:protocolVersion>
-        <oai:adminEmail>{{ admin_email }}</oai:adminEmail>
-        <oai:earliestDatestamp>{{ earliest_datestamp }}</oai:earliestDatestamp>
-        <oai:deletedRecord>{{ deleted_record }}</oai:deletedRecord>
-        <oai:granularity>{{ granularity }}</oai:granularity>
-    </oai:Identify>
-</oai:OAI-PMH>
+    </request>
+    <Identify>
+        <repositoryName>{{ repository_name }}</repositoryName>
+        <baseURL>{{ base_url }}</baseURL>
+        <protocolVersion>{{ protocol_version }}</protocolVersion>
+        <adminEmail>{{ admin_email }}</adminEmail>
+        <earliestDatestamp>{{ earliest_datestamp }}</earliestDatestamp>
+        <deletedRecord>{{ deleted_record }}</deletedRecord>
+        <granularity>{{ granularity }}</granularity>
+    </Identify>
+</OAI-PMH>
 """
 
 

@@ -6,30 +6,29 @@ from lxml import etree
 from services.get_record import BASE_XML_DIRECTORY
 
 list_records_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
-             xmlns:dc="http://purl.org/dc/elements/1.1/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="ListRecords" metadataPrefix="{{ metadata_prefix }}">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="ListRecords" metadataPrefix="{{ metadata_prefix }}">
         {{ base_url }}
-    </oai:request>
-    <oai:ListRecords>
+    </request>
+    <ListRecords>
         {% for record in records %}
-        <oai:record>
-            <oai:header>
-                <oai:identifier>{{ record.identifier }}</oai:identifier>
-                <oai:datestamp>{{ record.datestamp }}</oai:datestamp>
-                <oai:setSpec>{{ record.set_spec }}</oai:setSpec>
-            </oai:header>
-            <oai:metadata>
+        <record>
+            <header>
+                <identifier>{{ record.identifier }}</identifier>
+                <datestamp>{{ record.datestamp }}</datestamp>
+                <setSpec>{{ record.set_spec }}</setSpec>
+            </header>
+            <metadata>
                 {{ record.metadata | safe }}
-            </oai:metadata>
-        </oai:record>
+            </metadata>
+        </record>
         {% endfor %}
-    </oai:ListRecords>
-</oai:OAI-PMH>
+    </ListRecords>
+</OAI-PMH>
 """
 
 
@@ -40,18 +39,28 @@ def extract_records_from_directory(directory_path):
             file_path = os.path.join(directory_path, filename)
             try:
                 tree = etree.parse(file_path)
+                '''
                 root = tree.getroot()
                 dc_namespace = "http://purl.org/dc/elements/1.1/"
                 etree.register_namespace("dc", dc_namespace)
+                oai_dc_namespace = "http://www.openarchives.org/OAI/2.0/oai_dc/"
+                etree.register_namespace("oai_dc", oai_dc_namespace)
 
                 for elem in root.iter():
                     elem.tag = f"{{{dc_namespace}}}{elem.tag.split('}')[-1]}"
 
                 metadata_xml = etree.tostring(root, pretty_print=True, encoding="unicode")
+                '''
+                namespaces = {
+                    "oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+                metadata_xml = tree.find(".//oai_dc:dc", namespaces=namespaces)
+                metadata_xml = etree.tostring(metadata_xml, pretty_print=True, encoding="unicode")
 
                 record = {
-                    "identifier": root.find(".//identifier").text if root.find(".//identifier") is not None else "Unknown",
-                    "datestamp": root.find(".//datestamp").text if root.find(".//datestamp") is not None else "2024-01-01",
+                    "identifier": tree.find(".//identifier").text if tree.find(".//identifier") is not None else "Unknown",
+                    "datestamp": tree.find(".//datestamp").text if tree.find(".//datestamp") is not None else "2024-01-01",
                     "metadata": metadata_xml,
                 }
                 records.append(record)
@@ -62,7 +71,7 @@ def extract_records_from_directory(directory_path):
 
 def list_records(base_url, metadataPrefix):
 
-    records = extract_records_from_directory(BASE_XML_DIRECTORY)
+    records = extract_records_from_directory(f'{BASE_XML_DIRECTORY}/{metadataPrefix}')
     if not records:
         return False, 'No records found'
 

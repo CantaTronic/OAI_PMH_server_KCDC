@@ -3,16 +3,16 @@ from datetime import datetime
 
 
 error_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="{{ verb }}">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="{{ verb }}">
         {{ base_url }}
-    </oai:request>
-    <oai:error code="{{ error_code }}">{{ error_message }}</oai:error>
-</oai:OAI-PMH>
+    </request>
+    <error code="{{ error_code }}">{{ error_message }}</error>
+</OAI-PMH>
 """
 
 
