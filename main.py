@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query, UploadFile, status
 from fastapi.responses import Response
 
 from services.metadata import validate_metadata_prefix, list_metadata
@@ -7,6 +7,7 @@ from services.list_identifiers import list_identifiers
 from services.get_record import get_record
 from services.error import error_response
 from services.identify import identify
+from services.save_file import save_file
 
 from config import config
 
@@ -73,5 +74,23 @@ async def oai(
 
     return Response(content=response_data,
                     media_type="application/xml")
+
+
+@app.post("/add_record", response_class=Response)
+async def api_add_record(
+    file: UploadFile,
+    metadataPrefix: str | None = None,
+    identifier: str | None = None,
+):
+    if not validate_metadata_prefix(metadataPrefix):
+        response_data = error_response(BASE_URL, 'AddRecord', ERROR_CODE_FORMAT,
+                                       f'The metadataPrefix {metadataPrefix} is not supported by this repository.')
+        return Response(content=response_data,
+                        media_type="application/xml")
+
+    await save_file(file, metadataPrefix, identifier)
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
+
+
 
 

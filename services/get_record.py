@@ -6,42 +6,47 @@ from lxml import etree
 BASE_XML_DIRECTORY = "md_xml"
 
 get_record_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:dc="http://purl.org/dc/elements/1.1/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="GetRecord" identifier="{{ identifier }}" metadataPrefix="{{ metadata_prefix }}">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="GetRecord" identifier="{{ identifier }}" metadataPrefix="{{ metadata_prefix }}">
         {{ base_url }}
-    </oai:request>
-    <oai:GetRecord>
-        <oai:record>
-            <oai:header>
-                <oai:identifier>{{ identifier }}</oai:identifier>
-                <oai:datestamp>{{ datestamp }}</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
+    </request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>{{ identifier }}</identifier>
+                <datestamp>{{ datestamp }}</datestamp>
+            </header>
+            <metadata>
                 {{ metadata | safe }}
-            </oai:metadata>
-        </oai:record>
-    </oai:GetRecord>
-</oai:OAI-PMH>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>
 """
 
 
 def extract_metadata_from_file(xml_file_path):
     try:
         tree = etree.parse(xml_file_path)
+        '''
         root = tree.getroot()
-
         dc_namespace = "http://purl.org/dc/elements/1.1/"
         etree.register_namespace("dc", dc_namespace)
-
         for elem in root.iter():
             elem.tag = f"{{{dc_namespace}}}{elem.tag.split('}')[-1]}"
-
         metadata_xml = etree.tostring(root, pretty_print=True, encoding="unicode")
+        '''
+        namespaces = {
+            "oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+            "dc": "http://purl.org/dc/elements/1.1/"
+        }
+        metadata_xml = tree.find(".//oai_dc:dc", namespaces=namespaces)
+        metadata_xml = etree.tostring(metadata_xml, pretty_print=True, encoding="unicode")
         return metadata_xml
     except Exception as e:
         print(f"Ошибка при чтении XML: {e}")
@@ -50,7 +55,7 @@ def extract_metadata_from_file(xml_file_path):
 
 def get_record(base_url, metadataPrefix, identifier):
 
-    xml_file_path = f'{BASE_XML_DIRECTORY}/{identifier}.xml'
+    xml_file_path = f'{BASE_XML_DIRECTORY}/{metadataPrefix}/{identifier}.xml'
 
     if not os.path.isfile(xml_file_path):
         return False, 'No item found with this identifier'

@@ -6,6 +6,11 @@ METADATA_FORMATS = [
         'metadataPrefix': 'oai_dc',
         'schema': 'http://www.openarchives.org/OAI/2.0/oai_dc.xsd',
         'metadataNamespace': 'http://www.openarchives.org/OAI/2.0/oai_dc/'
+    },
+    {
+        'metadataPrefix': 'oai_datacite',
+        'schema':'http://schema.datacite.org/meta/kernel-4.4/metadata.xsd',
+        'metadataNamespace': 'http://datacite.org/schema/kernel-4'
     }
 ]
 
@@ -15,24 +20,24 @@ def validate_metadata_prefix(metadata_prefix):
 
 
 list_metadata_formats_template = """
-<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-    <oai:responseDate>{{ response_date }}</oai:responseDate>
-    <oai:request verb="ListMetadataFormats">
+    <responseDate>{{ response_date }}</responseDate>
+    <request verb="ListMetadataFormats">
         {{ base_url }}
-    </oai:request>
-    <oai:ListMetadataFormats>
+    </request>
+    <ListMetadataFormats>
         {% for format in metadata_formats %}
-        <oai:metadataFormat>
-            <oai:metadataPrefix>{{ format.metadataPrefix }}</oai:metadataPrefix>
-            <oai:schema>{{ format.schema }}</oai:schema>
-            <oai:metadataNamespace>{{ format.metadataNamespace }}</oai:metadataNamespace>
-        </oai:metadataFormat>
+        <metadataFormat>
+            <metadataPrefix>{{ format.metadataPrefix }}</metadataPrefix>
+            <schema>{{ format.schema }}</schema>
+            <metadataNamespace>{{ format.metadataNamespace }}</metadataNamespace>
+        </metadataFormat>
         {% endfor %}
-    </oai:ListMetadataFormats>
-</oai:OAI-PMH>
+    </ListMetadataFormats>
+</OAI-PMH>
 """
 
 
