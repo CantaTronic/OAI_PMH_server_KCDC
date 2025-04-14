@@ -1,3 +1,5 @@
 *.pyc
 .env
 env
+notes_bwcloud.md
+Making_it_work/*
