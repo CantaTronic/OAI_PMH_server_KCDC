@@ -1,4 +1,3 @@
-
 image: quay.io/buildah/stable
 container:build:
   stage: build
