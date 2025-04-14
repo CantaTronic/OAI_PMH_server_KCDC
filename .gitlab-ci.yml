@@ -1,0 +1,11 @@
+
+image: quay.io/buildah/stable
+container:build:
+  stage: build
+  dependencies: []
+  before_script:
+    - echo "$CI_REGISTRY_PASSWORD" | buildah login -u "$CI_REGISTRY_USER" --password-stdin $CI_REGISTRY
+  script:
+    - buildah build -t s_oai-pmh
+    - buildah images
+    - buildah push s_oai-pmh $CI_REGISTRY_IMAGE/s_oai-pmh:latest
