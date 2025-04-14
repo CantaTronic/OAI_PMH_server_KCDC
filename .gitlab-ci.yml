@@ -8,3 +8,4 @@ container:build:
     - buildah build -t s_oai-pmh
     - buildah images
     - buildah push s_oai-pmh $CI_REGISTRY_IMAGE/s_oai-pmh:latest
+    
