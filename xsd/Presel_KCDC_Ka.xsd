@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">-->
+<xs:schema targetNamespace="oai-pmh.kcdc.iap.kit.edu/preselects"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:kcdc="oai-pmh.kcdc.iap.kit.edu/preselects"
+           elementFormDefault="qualified">
+
+  <!-- ========================= -->
+  <!-- Root Element             -->
+  <!-- ========================= -->
+
+  <xs:element name="quantities" type="kcdc:quantitiesType"/>
+
+  <xs:complexType name="quantitiesType">
+    <xs:all>
+      <xs:element name="GENERAL" type="kcdc:GENERALQuantities" minOccurs="1"/>
+      <xs:element name="KASCADE" type="kcdc:KASCADEQuantities" minOccurs="0"/>
+      <xs:element name="GRANDE" type="kcdc:GRANDEQuantities" minOccurs="0"/>
+      <xs:element name="LOPES" type="kcdc:LOPESQuantities" minOccurs="0"/>
+    </xs:all>
+  </xs:complexType>
+
+  <!-- ========================= -->
+  <!-- Complex Types            -->
+  <!-- ========================= -->
+
+  <xs:complexType name="KASCADEQuantities">
+    <xs:all>
+      <xs:element name="E" type="kcdc:EnergyEV_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Xc" type="kcdc:PositionXY_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Yc" type="kcdc:PositionXY_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Ze" type="kcdc:Zenith_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Az" type="kcdc:AzimuthGen_Type" minOccurs="0"/>
+      <xs:element name="Ne" type="kcdc:Ne_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Nmu" type="kcdc:Nmu_KASCADE_Type" minOccurs="0"/>
+      <xs:element name="Age" type="kcdc:Age_KASCADE_Type" minOccurs="0"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:complexType name="GRANDEQuantities">
+    <xs:all>
+      <xs:element name="Xc" type="kcdc:PositionX_GRANDE_Type" minOccurs="0"/>
+      <xs:element name="Yc" type="kcdc:PositionY_GRANDE_Type" minOccurs="0"/>
+      <xs:element name="Ze" type="kcdc:Zenith_GRANDE_Type" minOccurs="0"/>
+      <xs:element name="Az" type="kcdc:AzimuthGen_Type" minOccurs="0"/>
+      <xs:element name="Nch" type="kcdc:Nch_GRANDE_Type" minOccurs="0"/>
+      <xs:element name="Nmu" type="kcdc:Nmu_GRANDE_Type" minOccurs="0"/>
+      <xs:element name="Age" type="kcdc:Age_GRANDE_Type" minOccurs="0"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:complexType name="GENERALQuantities">
+    <xs:all>
+      <xs:element name="T" type="kcdc:T_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="P" type="kcdc:P_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="Gt" type="kcdc:Gt_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="Mt" type="kcdc:Mt_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="R" type="kcdc:R_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="Ev" type="kcdc:Ev_GENERAL_Type" minOccurs="0"/>
+      <xs:element name="UUID" type="kcdc:UUID_GENERAL_Type" minOccurs="0"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:complexType name="LOPESQuantities">
+    <xs:all>
+      <xs:element name="EfieldAbyMax" type="kcdc:EfieldAbyMax_LOPES_Type" minOccurs="0"/>
+      <xs:element name="AzL_EW_NS" type="kcdc:AzL_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="ElL_EW_NS" type="kcdc:ElL_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="CC_Height_EW_NS" type="kcdc:CC_Height_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="XHeight_EW_NS" type="kcdc:XHeight_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="ConeAngle_EW_NS" type="kcdc:ConeAngle_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="NCCBeanAnt_EW_NS" type="kcdc:NCCBeanAnt_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="Eta_EW_NS" type="kcdc:Eta_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="Eps_EW_NS" type="kcdc:Eps_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="RMS_CCBeam_EW_NS" type="kcdc:RMS_CCBeam_EW_NS_LOPES_Type" minOccurs="0"/>
+      <xs:element name="Geomag_Angle" type="kcdc:Geomag_Angle_LOPES_Type" minOccurs="0"/>
+      <xs:element name="Geomag_AngleG" type="kcdc:Geomag_AngleG_LOPES_Type" minOccurs="0"/>
+      <xs:element name="Reconstruction" type="kcdc:Reconstruction_LOPES_Type" minOccurs="0"/>
+      <xs:element name="LopesCompID" type="kcdc:LopesCompID_LOPES_Type" minOccurs="0"/>
+   </xs:all>
+  </xs:complexType>
+
+  <!-- ========================= -->
+  <!-- Simple Types: Reusable   -->
+  <!-- ========================= -->
+
+  <xs:simpleType name="AzimuthGen_Type">
+    <xs:annotation>
+      <xs:documentation>
+        AzimuthGen: Azimuth angle in degrees; range: 0 to 360°.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="360"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ========================= -->
+  <!-- KASCADE Simple Types     -->
+  <!-- ========================= -->
+
+  <xs:simpleType name="EnergyEV_KASCADE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        EnergyEV_KASCADE: Energy in electronvolts (eV); KASCADE experiment; range: 1e13 to 1e19 eV.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="1e13"/>
+      <xs:maxInclusive value="1e19"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="PositionXY_KASCADE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        PositionXY_KASCADE: X or Y core position in meters; KASCADE experiment; range: -91 to 91 m.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-91"/>
+      <xs:maxInclusive value="91"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Zenith_KASCADE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Zenith_KASCADE: Zenith angle in degrees; KASCADE experiment; range: 0 to 60°.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="60"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Ne_KASCADE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Ne_KASCADE: Number of electrons (Ne); KASCADE experiment; range: 1e2 to 5e8.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="100"/>
+      <xs:maxInclusive value="5e8"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Nmu_KASCADE_Type">
+     <xs:annotation>
+      <xs:documentation>
+        Nmu_KASCADE: Number of muons (Nmu); KASCADE experiment; range: 1e2 to 5e7.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="100"/>
+      <xs:maxInclusive value="5e7"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Age_KASCADE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Age_KASCADE: Shower Age parameter; KASCADE experiment; range: 0.1 to 1.48.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0.1"/>
+      <xs:maxInclusive value="1.48"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ========================= -->
+  <!-- GRANDE Simple Types      -->
+  <!-- ========================= -->
+
+  <xs:simpleType name="PositionX_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        PositionX_GRANDE: X core position in meters for GRANDE experiment; range: -500 to 100 m.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-500"/>
+      <xs:maxInclusive value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="PositionY_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        PositionY_GRANDE: Y core position in meters for GRANDE experiment; range: -600 to 100 m.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-600"/>
+      <xs:maxInclusive value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Zenith_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Zenith_GRANDE: Zenith angle in degrees for GRANDE experiment; range: 0 to 40°.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="40"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Nch_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Nch_GRANDE: Number of charged particles for GRANDE experiment; range: 1.1111e4 to 1e9.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="1.1111e4"/>
+      <xs:maxInclusive value="1e9"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Nmu_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Nmu_GRANDE: Number of muons (Nmu) for GRANDE experiment; range: 1.5e3 to 1e8.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="1.5e3"/>
+      <xs:maxInclusive value="1e8"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Age_GRANDE_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Age_GRANDE: Age parameter of the shower for GRANDE experiment; range: -0.385 to 1.54.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-0.385"/>
+      <xs:maxInclusive value="1.488"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- GENERAL Quantities -->
+  <xs:simpleType name="T_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        T: Air temperature in degrees Celsius; range: -20°C to +50°C.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-2e1"/>
+      <xs:maxInclusive value="5e1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="P_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        P: Air pressure in hectopascals (hPa); range: 960 to 1040 hPa.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="9.6e2"/>
+      <xs:maxInclusive value="1.04e3"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Gt_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Gt: Global time in seconds since 01.01.1970 (UNIX time); range: 894638100 to 1017887940.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="1.133562309e9"/>
+      <xs:maxInclusive value="1.25652752e9"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Mt_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Mt: Micro time (subsecond); range: 0 to 999999999.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="9.99999999e8"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="R_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        R: Run number; range: 877 to 4683.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="5534"/>
+      <xs:maxInclusive value="6821"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Ev_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        Ev: Event number; range: 1 to 4100000.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="4100000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+    <xs:simpleType name="UUID_GENERAL_Type">
+    <xs:annotation>
+      <xs:documentation>
+        UUID_GENERAL: Universally unique identifier (UUID) in 8-4-4-4-12 hexadecimal format.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+        <xs:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-5][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}"/>
+    </xs:restriction>
+    </xs:simpleType>
+
+  <!-- LOPES Quantities -->
+  <xs:simpleType name="EfieldAbyMax_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0.0"/>
+      <xs:maxInclusive value="5e4"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="AzL_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="3.6e2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="ElL_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="3.6e2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="CC_Height_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="2e1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="XHeight_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="2e1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="ConeAngle_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1e-1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="NCCBeanAnt_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="30"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Eta_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-4e-2"/>
+      <xs:maxInclusive value="1.1e-1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Eps_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="-4e-2"/>
+      <xs:maxInclusive value="1.1e-1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="RMS_CCBeam_EW_NS_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0.0"/>
+      <xs:maxInclusive value="2e1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Geomag_Angle_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1.2e2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Geomag_AngleG_LOPES_Type">
+    <xs:restriction base="xs:double">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1.2e2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Reconstruction_LOPES_Type">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="65"/>
+      <xs:maxInclusive value="71"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="LopesCompID_LOPES_Type">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quantities xmlns="oai-pmh.kcdc.iap.kit.edu/preselects"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="oai-pmh.kcdc.iap.kit.edu/preselects Presel_KCDC_Ka.xsd">
+  <!-- General Metadata -->
+
+  <GENERAL>
+    <UUID>123e4567-e89b-12d3-a456-426614174000</UUID>
+    <T>15.5</T>
+    <P>1013.25</P>
+    <Gt>1133562309</Gt>
+    <Mt>123456789</Mt>
+    <R>6000</R>
+    <Ev>123456</Ev>
+  </GENERAL>
+
+  <!-- KASCADE Event -->
+  <KASCADE>
+    <E>5.5e14</E>
+    <Xc>45.0</Xc>
+    <Yc>-30.0</Yc>
+    <Ze>42.3</Ze>
+    <Az>180.0</Az>
+    <Ne>5.2e5</Ne>
+    <Nmu>3.8e4</Nmu>
+    <Age>0.9</Age>
+  </KASCADE>
+
+  <!-- GRANDE Event -->
+  <GRANDE>
+    <Xc>-120.0</Xc>
+    <Yc>-350.0</Yc>
+    <Ze>35.0</Ze>
+    <Az>270.0</Az>
+    <Nch>1.2e5</Nch>
+    <Nmu>2.1e4</Nmu>
+    <Age>0.8</Age>
+  </GRANDE>
+
+  <!-- LOPES Example -->
+  <LOPES>
+    <EfieldAbyMax>12345.67</EfieldAbyMax>
+    <AzL_EW_NS>90.0</AzL_EW_NS>
+    <ElL_EW_NS>45.0</ElL_EW_NS>
+    <CC_Height_EW_NS>12.5</CC_Height_EW_NS>
+    <XHeight_EW_NS>8.0</XHeight_EW_NS>
+    <ConeAngle_EW_NS>0.05</ConeAngle_EW_NS>
+    <NCCBeanAnt_EW_NS>15</NCCBeanAnt_EW_NS>
+    <Eta_EW_NS>0.01</Eta_EW_NS>
+    <Eps_EW_NS>0.005</Eps_EW_NS>
+    <RMS_CCBeam_EW_NS>7.5</RMS_CCBeam_EW_NS>
+    <Geomag_Angle>60.0</Geomag_Angle>
+    <Geomag_AngleG>58.5</Geomag_AngleG>
+    <Reconstruction>66</Reconstruction>
+    <LopesCompID>1</LopesCompID>
+  </LOPES>
+</quantities>
