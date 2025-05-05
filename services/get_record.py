@@ -1,4 +1,5 @@
 import os
+import re
 from datetime import datetime
 from jinja2 import Template
 from lxml import etree
@@ -7,10 +8,13 @@ BASE_XML_DIRECTORY = "md_xml"
 
 get_record_template = """
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
-             xmlns:dc="http://purl.org/dc/elements/1.1/"
-             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
-             http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+                             http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd
+                             http://www.openarchives.org/OAI/2.0/oai_dc/
+                             http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
     <responseDate>{{ response_date }}</responseDate>
     <request verb="GetRecord" identifier="{{ identifier }}" metadataPrefix="{{ metadata_prefix }}">
         {{ base_url }}
@@ -47,6 +51,7 @@ def extract_metadata_from_file(xml_file_path):
         }
         metadata_xml = tree.find(".//oai_dc:dc", namespaces=namespaces)
         metadata_xml = etree.tostring(metadata_xml, pretty_print=True, encoding="unicode")
+        metadata_xml = re.sub(r'<oai_dc:dc .+?>', r'<oai_dc:dc>', metadata_xml)
         return metadata_xml
     except Exception as e:
         print(f"Ошибка при чтении XML: {e}")

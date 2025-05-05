@@ -75,7 +75,7 @@ async def oai(
     return Response(content=response_data,
                     media_type="application/xml")
 
-
+'''
 @app.post("/add_record", response_class=Response)
 async def api_add_record(
     file: UploadFile,
@@ -90,7 +90,4 @@ async def api_add_record(
 
     await save_file(file, metadataPrefix, identifier)
     return Response(status_code=status.HTTP_204_NO_CONTENT)
-
-
-
-
+'''
