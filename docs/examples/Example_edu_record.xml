@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eduResource xmlns="oai-pmh.kcdc.iap.kit.edu/edu"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="oai-pmh.kcdc.iap.kit.edu/edu Edu_meta.xsd">
+
+        <TargetGroup>high school students, citizen scientists</TargetGroup>
+        <LearningResourceType>tutorial</LearningResourceType>
+        <LearningObjectives>
+                Upon completing the NeNmu Tutorial, students should be able to apply Python programming skills to analyze data from astroparticle physics experiments (Application). They will also be able to explain and interpret the principles behind particle mass estimation (Comprehension)
+        </LearningObjectives>
+        <CompetencyRequired>Beginner</CompetencyRequired>
+        <TimeRequired>PT90M</TimeRequired>
+        <AccessCost>
+                <AccessType>Open Access</AccessType>
+        </AccessCost>
+</eduResource>

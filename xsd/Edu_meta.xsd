@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="oai-pmh.kcdc.iap.kit.edu/edu"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:kcdc_edu="oai-pmh.kcdc.iap.kit.edu/edu"
+           elementFormDefault="qualified">
+
+  <!-- ========================= -->
+  <!-- Root Element             -->
+  <!-- ========================= -->
+
+    <xs:element name="eduResource" type="kcdc_edu:eduResourceType" />
+
+    <xs:complexType name="eduResourceType">
+      <xs:all>
+        <xs:element name="TargetGroup" type="xs:string" minOccurs="0"/>
+        <xs:element name="LearningResourceType" type="kcdc_edu:LearningResourceTypeType"  minOccurs="0"/>
+        <xs:element name="LearningObjectives" type="xs:string"  minOccurs="0"/>
+        <xs:element name="CompetencyRequired" type="kcdc_edu:CompetencyLevelType" minOccurs="0"/>
+        <xs:element name="TimeRequired" type="xs:duration" minOccurs="0"/>
+        <xs:element name="AccessCost" type="kcdc_edu:AccessCostType" minOccurs="0"/>
+      </xs:all>
+    </xs:complexType>
+
+
+<!-- Controlled vocabulary for competency level type -->
+<xs:simpleType name="CompetencyLevelType">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Beginner"/>
+    <xs:enumeration value="Intermediate"/>
+    <xs:enumeration value="Advanced"/>
+  </xs:restriction>
+</xs:simpleType>
+
+  <!-- Controlled vocabulary for learning resource type -->
+  <xs:simpleType name="LearningResourceTypeType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="video"/>
+      <xs:enumeration value="tutorial"/>
+      <xs:enumeration value="slides"/>
+      <xs:enumeration value="online lessons"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- AccessCost with controlled vocabulary and optional URL -->
+  <xs:complexType name="AccessCostType">
+    <xs:sequence>
+      <xs:element name="AccessType" type="kcdc_edu:AccessTypeEnum"/>
+      <xs:element name="DetailsURL" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="AccessTypeEnum">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Open Access"/>
+      <xs:enumeration value="Commercial"/>
+      <xs:enumeration value="Other"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
+
