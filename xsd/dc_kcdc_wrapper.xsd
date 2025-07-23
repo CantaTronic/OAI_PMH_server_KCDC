@@ -1,0 +1,24 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="urn:kit:iap:kcdc:extension-schema:wrapper"
+           xmlns:dc_kcdc_ext="urn:kit:iap:kcdc:extension-schema:wrapper"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:kcdc_preselects="urn:kit:iap:kcdc:extension-schema:preselects"
+           elementFormDefault="qualified">
+
+  <xs:import namespace="http://purl.org/dc/elements/1.1/"
+             schemaLocation="http://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
+
+  <xs:import namespace="urn:kit:iap:kcdc:extension-schema:preselects"
+             schemaLocation="https://oai-pmh.kcdc.iap.kit.edu/schemas/preselects.xsd"/>
+
+  <xs:element name="dc_kcdc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:any namespace="http://purl.org/dc/elements/1.1/"
+                minOccurs="0" maxOccurs="unbounded" processContents="strict"/>
+        <xs:any namespace="urn:kit:iap:kcdc:extension-schema:preselects"
+                minOccurs="0" maxOccurs="unbounded" processContents="strict"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

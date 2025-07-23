@@ -1,0 +1,2011 @@
+Identifier,Setup,Key,Value,Cut,Position
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,E,10^15.7,cut,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,E,10^19 eV,cut,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Xc,-500,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Xc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Yc,-550,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Yc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ze,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ze,30°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Az,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Az,360°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ne,1.0e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Nmu,1000,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Nmu,1.9e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,0.15,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,0.1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,T,-20 °,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,T,+50°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,P,960,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,P,1040 hPa,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Mt,0,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,R,4775,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,R,7039,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Ev,1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,UUID,,full range,
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Reconstruction,65 or 71,,
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,LopesCompID,0 or 1,,
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,E,10^15.7,cut,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,E,10^19 eV,cut,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Xc,-500,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Xc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Yc,-550,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Yc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ze,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ze,30°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Az,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Az,360°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Ne,1.0e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Nmu,1000,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Nmu,1.9e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,0.15,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,0.1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,T,-20 °,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,T,+50°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,P,960,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,P,1040 hPa,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Mt,0,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,R,4775,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,R,7039,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Ev,1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,GENERAL,UUID,,full range,
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,Reconstruction,65 or 71,,
+COMBINED_HighEnergyData_runs_4775-7039_HDF5,LOPES,LopesCompID,0 or 1,,
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,E,10^15.7,cut,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,E,10^19 eV,cut,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Xc,-500,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Xc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Yc,-550,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Yc,+91 m,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Ze,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Ze,30°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Az,0°,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Az,360°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Ne,1.0e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Nmu,1000,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Nmu,1.9e9,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Age,0.15,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Age,0.1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,KASCADE,Age,1.48,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,T,-20 °,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,T,+50°,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,P,960,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,P,1040 hPa,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Mt,0,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,R,4775,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,R,7039,full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Ev,1,full range,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,GENERAL,UUID,,full range,
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_HighEnergyData_runs_4775-7039_ROOT,LOPES,LopesCompID,0 or 1,,
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,E,10^15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Xc,-500,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Yc,-550,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Ze,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Ze,30°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Az,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Az,360°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Age,0.15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,COMBINED,Age,1.48,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,T,-20 °,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,T,+50°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,P,960,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Mt,0,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,R,4775,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,R,7039,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Ev,1,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,GENERAL,UUID,,1/40th,
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,AzL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,ElL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Geomag_Angle,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Geomag_AngleG,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,Reconstruction,65 or 71,,
+COMBINED_ReducedData_runs_4775-7039_ASCII,LOPES,LopesCompID,0 or 1,,
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,E,10^15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Xc,-500,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Yc,-550,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Ze,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Ze,30°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Az,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Az,360°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Age,0.15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,COMBINED,Age,1.48,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,T,-20 °,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,T,+50°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,P,960,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Mt,0,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,R,4775,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,R,7039,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Ev,1,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,GENERAL,UUID,,1/40th,
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,0,,range from
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,Reconstruction,65 or 71,,
+COMBINED_ReducedData_runs_4775-7039_HDF5,LOPES,LopesCompID,0 or 1,,
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,E,10^15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Xc,-500,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Yc,-550,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Ze,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Ze,30°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Az,0°,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Az,360°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Age,0.15,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,COMBINED,Age,1.48,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,T,-20 °,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,T,+50°,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,P,960,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Mt,0,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,R,4775,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,R,7039,1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Ev,1,1/40th,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,GENERAL,UUID,,1/40th,
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_ReducedData_runs_4775-7039_ROOT,LOPES,LopesCompID,0 or 1,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,E,10^15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Xc,-500,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Yc,-550,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Ze,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Ze,30°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Az,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Az,360°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Age,0.15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,COMBINED,Age,1.48,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,T,-20 °,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,T,+50°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,P,960,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Mt,0,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,R,4775,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,R,7039,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Ev,1,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,GENERAL,UUID,,1/40th,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,AzL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,ElL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,ConeAngle_EW_NS," 0,1 rad",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Geomag_Angle,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Geomag_AngleG,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,Reconstruction,65 or 71,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ASCII,LOPES,LopesCompID,0 or 1,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,E,10^15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Xc,-500,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Yc,-550,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Ze,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Ze,30°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Az,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Az,360°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Age,0.15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,COMBINED,Age,1.48,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,T,-20 °,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,T,+50°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,P,960,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Mt,0,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,R,4775,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,R,7039,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Ev,1,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,GENERAL,UUID,,1/40th,
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Geomag_Angle,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,Reconstruction,65 or 71,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_HDF5,LOPES,LopesCompID,0 or 1,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,E,10^15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Xc,-500,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Yc,-550,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Ze,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Ze,30°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Az,0°,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Az,360°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Age,0.15,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,COMBINED,Age,1.48,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,T,-20 °,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,T,+50°,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,P,960,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Mt,0,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,R,4775,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,R,7039,1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Ev,1,1/40th,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,GENERAL,UUID,,1/40th,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_SmallDataSample_nA_runs_4775-7039_ROOT,LOPES,LopesCompID,0 or 1,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,E,10^15,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Xc,-500,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Yc,-550,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ze,0°,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ze,30°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Az,0°,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Az,360°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Age,0.15,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Age,1.48,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,T,-20 °,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,T,+50°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,P,960,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Mt,0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,R,4775,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,R,7039,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Ev,1,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,UUID,,1/40th,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EDeposit,"30,000.0 MeV",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,MDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,MDeposit,1000.0 MeV,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GDeposit,"100,000.0 MeV",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Arrival,-1550.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Arrival,2550.0 ns,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GArrival,1000.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GArrival,"10,000.0",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Height,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Height,60 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Distance,ms,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EnvelopTime,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EnvelopTime,800 ms,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Polarization,NS or EW,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,0°,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,0°,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,LopesCompID,0 or 1,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,E,10^15,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,E,10^19 eV,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Xc,-500,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Xc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Yc,-550,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Yc,+91 m,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ze,0°,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ze,30°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Az,0°,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Az,360°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ne,1e3.2 / 1e4.8,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Ne,1.0e9,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Nmu,1000,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Nmu,1.9e9,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Age,0.15,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,COMBINED,Age,1.48,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,T,-20 °,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,T,+50°,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,P,960,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,P,1040 hPa,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Gt,"1,078,737,917",1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Gt,"1,288,855,193",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Mt,0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Mt,"999,999,999",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,DateTime,08-03-04,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,DateTime,04-11-10,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,R,4775,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,R,7039,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Ev,1,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Ev,"4,100,000",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,UUID,,1/40th,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EDeposit,"30,000.0 MeV",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,MDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,MDeposit,1000.0 MeV,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GDeposit,0.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GDeposit,"100,000.0 MeV",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Arrival,-1550.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Arrival,2550.0 ns,1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GArrival,1000.0,1/40th,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,GArrival,"10,000.0",1/40th,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Height,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Height,60 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Distance,ms,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EnvelopTime,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,EnvelopTime,800 ms,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,GENERAL,Polarization,NS or EW,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,0°,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,0°,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_SmallDataSample_wA_runs_4775-7039_ROOT,LOPES,LopesCompID,0 or 1,,
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,E,10^15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,E,10^19 eV,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Xc,-500,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Xc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Yc,-550,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Yc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Ze,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Ze,30°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Az,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Az,360°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Ne,1.0e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Nmu,1000,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Nmu,1.9e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Age,0.15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,COMBINED,Age,1.48,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,T,-20 °,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,T,+50°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,P,960,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,P,1040 hPa,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Mt,0,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,R,5534,cut,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,R,6821,cut,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Ev,1,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,GENERAL,UUID,,full range,
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,AzL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,ElL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Geomag_Angle,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Geomag_AngleG,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,Reconstruction,65 or 71,,
+COMBINED_LOPES_nA_runs_5534-6821_ASCII,LOPES,LopesCompID,1 or 1,,
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,E,10^15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,E,10^19 eV,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Xc,-500,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Xc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Yc,-550,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Yc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Ze,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Ze,30°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Az,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Az,360°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Ne,1.0e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Nmu,1000,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Nmu,1.9e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Age,0.15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,COMBINED,Age,1.48,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,T,-20 °,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,T,+50°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,P,960,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,P,1040 hPa,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Mt,0,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,R,5534,cut,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,R,6821,cut,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Ev,1,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,GENERAL,UUID,,full range,
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,AzL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,ElL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Geomag_Angle,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Geomag_AngleG,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,Reconstruction,65 or 71,,
+COMBINED_LOPES_nA_runs_5534-6821_HDF5,LOPES,LopesCompID,1 or 1,,
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,E,10^15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,E,10^19 eV,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Xc,-500,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Xc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Yc,-550,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Yc,+91 m,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Ze,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Ze,30°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Az,0°,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Az,360°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Ne,1e3.2 / 1e4.8,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Ne,1.0e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Nmu,1000,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Nmu,1.9e9,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Age,0.15,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,COMBINED,Age,1.48,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,T,-20 °,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,T,+50°,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,P,960,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,P,1040 hPa,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Gt,"1,078,737,917",full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Gt,"1,288,855,193",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Mt,0,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Mt,"999,999,999",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,DateTime,08-03-04,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,DateTime,04-11-10,full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,R,5534,cut,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,R,6821,cut,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Ev,1,full range,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,Ev,"4,100,000",full range,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,GENERAL,UUID,,full range,
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,EfieldMaxAbs,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,AzL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,AzL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,ElL_EW_NS,0°,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,ElL_EW_NS,360°,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,XHeight_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,ConeAngle_EW_NS,0.0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,NCCBeanAnt_EW_NS,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,NCCBeanAnt_EW_NS,30,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Eta_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Eta_EW_NS,0.11 /m,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Eps_EW_NS,-0.04,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Geomag_Angle,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Geomag_Angle,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Geomag_AngleG,0,,range from
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Geomag_AngleG,120 °,,range till
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,Reconstruction,65 or 71,,
+COMBINED_LOPES_nA_runs_5534-6821_ROOT,LOPES,LopesCompID,1 or 1,,
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,E,10^15.7,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,E,10^19 eV,cut,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Xc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Xc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Yc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Yc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Ze,60°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Ne,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Nmu,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Age,0.1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,KASCADE,Age,1.48,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,CALORIMETER,Nhad,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,CALORIMETER,Nhad,511,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Xc,-500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Xc,+100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Yc,-600,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Ze,40°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Nch,11111,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Nmu,1500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Age,-0.385,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GRANDE,Age,+1.488,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,T,-20 °,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,T,+50°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,P,960,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,P,1040 hPa,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Gt,"894,638,100",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Gt,"1,358,239,243",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Mt,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,DateTime,08-05-98,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,DateTime,15-01-13,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,R,877,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,R,7417,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Ev,1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Geomag_Angle,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Geomag_AngleG,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,Reconstruction,65 or 71,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,LopesCompID,0 to 1,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_ASCII,LOPES,LopesCompID,0 to 1,cut,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,E,10^15.7,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,E,10^19 eV,cut,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Xc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Xc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Yc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Yc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Ze,60°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Ne,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Nmu,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Age,0.1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,KASCADE,Age,1.48,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,CALORIMETER,Nhad,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,CALORIMETER,Nhad,511,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Xc,-500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Xc,+100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Yc,-600,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Ze,40°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Nch,11111,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Nmu,1500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Age,-0.385,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GRANDE,Age,+1.488,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,T,-20 °,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,T,+50°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,P,960,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,P,1040 hPa,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Gt,"894,638,100",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Gt,"1,358,239,243",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Mt,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,DateTime,08-05-98,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,DateTime,15-01-13,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,R,877,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,R,7417,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Ev,1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Geomag_Angle,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,Reconstruction,65 or 71,full range,
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,LopesCompID,0 to 1,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_HDF5,LOPES,LopesCompID,0 to 1,cut,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,E,10^15.7,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,E,10^19 eV,cut,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Xc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Xc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Yc,-91,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Yc,+91 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Ze,60°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Ne,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Nmu,100,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Age,0.1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,KASCADE,Age,1.48,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,CALORIMETER,Nhad,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,CALORIMETER,Nhad,511,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Xc,-500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Xc,+100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Yc,-600,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Ze,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Ze,40°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Az,0°,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Az,360°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Nch,11111,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Nmu,1500,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Age,-0.385,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GRANDE,Age,+1.488,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,T,-20 °,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,T,+50°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,P,960,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,P,1030 hPa,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Gt,"894,638,100",full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Gt,"1,358,239,243",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Mt,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,DateTime,08-05-98,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,DateTime,15-01-13,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,R,877,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,R,7417,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Ev,1,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Geomag_Angle,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,0,full range,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,Reconstruction,65 or 71,full range,
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,LopesCompID,0 to 1,cut,range from
+KASCADE_HighEnergyData_runs_0877-7417_ROOT,LOPES,LopesCompID,0 to 1,cut,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,T,-20 °,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,T,+50°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,P,960,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Gt,"894,638,100",cut,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Gt,"1,017,887,940",cut,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Mt,0,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,DateTime,08-05-98,cut,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,DateTime,20-12-03,cut,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,R,877,cut,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,R,4683,cut,range till
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Ev,1,full range,range from
+KASCADE_ReducedData_runs_0877-4683_ASCII,general,Ev,"4,100,000",full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,T,-20 °,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,T,+50°,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,P,960,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Gt,"894,638,100",cut,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Gt,"1,017,887,940",cut,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Mt,0,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,DateTime,08-05-98,cut,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,DateTime,20-12-03,cut,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,R,877,cut,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,R,4683,cut,range till
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Ev,1,full range,range from
+KASCADE_ReducedData_runs_0877-4683_HDF5,general,Ev,"4,100,000",full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,T,-20 °,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,T,+50°,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,P,960,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Gt,"894,638,100",cut,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Gt,"1,017,887,940",cut,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Mt,0,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,DateTime,08-05-98,cut,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,DateTime,20-12-03,cut,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,R,877,cut,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,R,4683,cut,range till
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Ev,1,full range,range from
+KASCADE_ReducedData _runs_0877-4683_ROOT,general,Ev,"4,100,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,T,-20 °,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,T,+50°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,P,960,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Gt,"1,017,887,940",cut,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Gt,"1,358,239,243",cut,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Mt,0,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,DateTime,20.12.2003,cut,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,DateTime,15.1.2013,cut,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,R,4685,cut,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,R,7417,cut,range till
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Ev,1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ASCII,general,Ev,"4,100,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,T,-20 °,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,T,+50°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,P,960,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Gt,"1,017,887,940",cut,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Gt,"1,358,239,243",cut,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Mt,0,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,DateTime,20.12.2003,cut,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,DateTime,15.1.2013,cut,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,R,4685,cut,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,R,7417,cut,range till
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Ev,1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_ROOT,general,Ev,"4,100,000",full range,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,E,1013,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,E,1019 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Xc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Xc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Yc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Yc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Ze,60°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Ne,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Ne,"500,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Nmu,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Nmu,"50,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Age,0.1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,KASCADE,Age,1.48,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,CALORIMETER,Nhad,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,CALORIMETER,Nhad,511,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,CALORIMETER,Ehad,"0, 1010",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,CALORIMETER,Ehad,1016 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Xc,-500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Xc,+100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Yc,-600,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Yc,+ 100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Ze,40°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Nch,11111,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Nch,"1,000,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Nmu,1500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Nmu,"100,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Age,-0.385,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GRANDE,Age,+1.488,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,T,-20 °,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,T,+50°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,P,960,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,P,1040 hPa,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Gt,"894,638,100",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Gt,"1,358,239,243",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Mt,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Mt,"999,999,999",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,DateTime,08-05-98,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,DateTime,15-01-13,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,R,887,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,R,7417,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Ev,1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,Ev,"4,100,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,GENERAL,UUID,,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,EfieldMaxAbs,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,EfieldMaxAbs,"50,000 V/m",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,AzL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,AzL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,ElL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,ElL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,CC_Height_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,XHeight_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,XHeight_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,ConeAngle_EW_NS,0.0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,ConeAngle_EW_NS,"0,1 rad",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,NCCBeanAnt_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,NCCBeanAnt_EW_NS,30,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Eta_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Eta_EW_NS,0.11 /m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Eps_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Eps_EW_NS,0.11 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Geomag_Angle,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Geomag_Angle,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Geomag_AngleG,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Geomag_AngleG,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,Reconstruction,65 or 71,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_ASCII,LOPES,LopesCompID,0 or 1,1/400th,
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,E,1013,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,E,1019 eV,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Xc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Xc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Yc,-91,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Yc,+91 m,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Ze,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Ze,60°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Az,0°,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Az,360°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Ne,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Nmu,100,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Age,0.1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,KASCADE,Age,1.48,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,T,-20 °,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,T,+50°,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,P,960,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,P,1040 hPa,full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Gt,"1,017,887,940",cut,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Gt,"1,358,239,243",cut,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Mt,0,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Mt,"999,999,999",full range,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,DateTime,20.12.2003,cut,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,DateTime,15.1.2013,cut,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,R,4685,cut,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,R,7417,cut,range till
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Ev,1,full range,range from
+KASCADE_ReducedData_runs_4685-7417_HDF5,general,Ev,"4,100,000",full range,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,E,1013,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,E,1019 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Xc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Xc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Yc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Yc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Ze,60°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Ne,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Ne,"500,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Nmu,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Nmu,"50,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Age,0.1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,KASCADE,Age,1.48,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,CALORIMETER,Nhad,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,CALORIMETER,Nhad,511,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,CALORIMETER,Ehad,"0, 1010",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,CALORIMETER,Ehad,1016 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Xc,-500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Xc,+100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Yc,-600,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Yc,+ 100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Ze,40°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Nch,11111,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Nch,"1,000,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Nmu,1500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Nmu,"100,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Age,-0.385,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GRANDE,Age,+1.488,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,T,-20 °,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,T,+50°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,P,960,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,P,1040 hPa,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Gt,"894,638,100",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Gt,"1,358,239,243",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Mt,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Mt,"999,999,999",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,DateTime,08-05-98,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,DateTime,15-01-13,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,R,887,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,R,7417,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Ev,1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,Ev,"4,100,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,GENERAL,UUID,,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,EfieldMaxAbs,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,XHeight_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,0.0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,30,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,0.11 /m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Geomag_Angle,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Geomag_Angle,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,Reconstruction,65 or 71,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_HDF5,LOPES,LopesCompID,0 or 1,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,E,1013,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,E,1019 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Xc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Xc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Yc,-91,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Yc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Ze,60°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Ne,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Ne,"500,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Nmu,100,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Nmu,"50,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Age,0.1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,KASCADE,Age,1.48,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,CALORIMETER,Nhad,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,CALORIMETER,Nhad,511,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,CALORIMETER,Ehad,"0, 1010",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,CALORIMETER,Ehad,1016 eV,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Xc,-500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Xc,+100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Yc,-600,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Yc,+ 100 m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Ze,40°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Nch,11111,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Nch,"1,000,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Nmu,1500,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Nmu,"100,000,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Age,-0.385,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GRANDE,Age,+1.488,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,T,-20 °,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,T,+50°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,P,960,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,P,1040 hPa,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Gt,"894,638,100",1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Gt,"1,358,239,243",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Mt,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Mt,"999,999,999",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,DateTime,08-05-98,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,DateTime,15-01-13,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,R,887,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,R,7417,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Ev,1,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,Ev,"4,100,000",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,GENERAL,UUID,,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,EfieldMaxAbs,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,XHeight_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,0.0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,30,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,0.11 /m,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Geomag_Angle,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Geomag_Angle,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,0,1/400th,range from
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,120 °,1/400th,range till
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,Reconstruction,65 or 71,1/400th,
+KASCADE_SmallDataSample_nA_runs_0877-7417_ROOT,LOPES,LopesCompID,0 or 1,1/400th,
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,E,1013,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,E,1019 eV,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Xc,-91,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Xc,+91 m,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Yc,-91,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Yc,+91 m,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Ze,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Ze,60°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Az,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Az,360°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Ne,100,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Ne,"500,000,000",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Nmu,100,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Nmu,"50,000,000",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Age,0.1,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,KASCADE,Age,1.48,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,CALORIMETER,Nhad,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,CALORIMETER,Nhad,511,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,CALORIMETER,Ehad,"0, 1010",1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,CALORIMETER,Ehad,1016 eV,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Xc,-500,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Xc,+100 m,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Yc,-600,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Yc,+ 100 m,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Ze,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Ze,40°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Az,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Az,360°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Nch,11111,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Nch,"1,000,000,000",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Nmu,1500,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Nmu,"100,000,000",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Age,-0.385,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GRANDE,Age,+1.488,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,T,-20 °,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,T,+50°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,P,960,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,P,1040 hPa,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Gt,"894,638,100",1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Gt,"1,358,239,243",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Mt,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Mt,"999,999,999",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,DateTime,08-05-98,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,DateTime,15-01-13,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,R,887,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,R,7417,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Ev,1,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Ev,"4,100,000",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,UUID,,1/400th,
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,EDeposit,0.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,EDeposit,"30,000.0 MeV",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,MDeposit,0.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,MDeposit,1000.0 MeV,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,GDeposit,0.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,GDeposit,"100,000.0 MeV",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Arrival,-1550.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Arrival,2550.0 ns,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,GArrival,1000.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,GArrival,"10,000.0",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Height,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Height,60 μV/m/MHz,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Distance,ms,1/400th,
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,EnvelopTime,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,EnvelopTime,800 ms,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,GENERAL,Polarization,NS or EW,1/400th,
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,EfieldMaxAbs,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,EfieldMaxAbs,"50,000 V/m",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,AzL_EW_NS,360°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,0°,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,ElL_EW_NS,360°,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,CC_Height_EW_NS,20 μV/m/MHz,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,XHeight_EW_NS,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,XHeight_EW_NS,20 μV/m/MHz,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,0.0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,ConeAngle_EW_NS,"0,1 rad",1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,NCCBeanAnt_EW_NS,30,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,-0.04,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Eta_EW_NS,0.11 /m,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,-0.04,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Eps_EW_NS,0.11 μV/m/MHz,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Geomag_Angle,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Geomag_Angle,120 °,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,0,1/400th,range from
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Geomag_AngleG,120 °,1/400th,range till
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,Reconstruction,65 or 71,1/400th,
+KACADE_SmallDataSample_wA_runs_0877-7417_HDF5,LOPES,LopesCompID,0 or 1,1/400th,
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,E,1013,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,E,1019 eV,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Xc,-91,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Xc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Yc,-91,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Yc,+91 m,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Ze,60°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Ne,100,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Ne,"500,000,000",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Nmu,100,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Nmu,"50,000,000",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Age,0.1,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,KASCADE,Age,1.48,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,CALORIMETER,Nhad,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,CALORIMETER,Nhad,511,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,CALORIMETER,Ehad,"0, 1010",1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,CALORIMETER,Ehad,1016 eV,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Xc,-500,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Xc,+100 m,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Yc,-600,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Yc,+ 100 m,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Ze,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Ze,40°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Az,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Az,360°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Nch,11111,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Nch,"1,000,000,000",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Nmu,1500,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Nmu,"100,000,000",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Age,-0.385,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GRANDE,Age,+1.488,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,T,-20 °,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,T,+50°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,P,960,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,P,1040 hPa,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Gt,"894,638,100",1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Gt,"1,358,239,243",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Mt,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Mt,"999,999,999",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,DateTime,08-05-98,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,DateTime,15-01-13,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,R,887,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,R,7417,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Ev,1,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Ev,"4,100,000",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,UUID,,1/400th,
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,EDeposit,0.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,EDeposit,"30,000.0 MeV",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,MDeposit,0.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,MDeposit,1000.0 MeV,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,GDeposit,0.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,GDeposit,"100,000.0 MeV",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Arrival,-1550.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Arrival,2550.0 ns,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,GArrival,1000.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,GArrival,"10,000.0",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Height,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Height,60 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Distance,ms,1/400th,
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,EnvelopTime,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,EnvelopTime,800 ms,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,GENERAL,Polarization,NS or EW,1/400th,
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,EfieldMaxAbs,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,EfieldMaxAbs,"50,000 V/m",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,AzL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,0°,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,ElL_EW_NS,360°,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,CC_Height_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,XHeight_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,XHeight_EW_NS,20 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,0.0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,ConeAngle_EW_NS,"0,1 rad",1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,NCCBeanAnt_EW_NS,30,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Eta_EW_NS,0.11 /m,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,-0.04,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Eps_EW_NS,0.11 μV/m/MHz,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Geomag_Angle,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Geomag_Angle,120 °,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,0,1/400th,range from
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Geomag_AngleG,120 °,1/400th,range till
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,Reconstruction,65 or 71,1/400th,
+KASCADE_SmallDataSample_wA_runs_0877-7417_ROOT,LOPES,LopesCompID,0 or 1,1/400th,
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,E,1013,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,E,1019 eV,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Xc,-91,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Xc,+91 m,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Yc,-91,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Yc,+91 m,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Ze,0°,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Ze,60°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Az,0°,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Az,360°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Ne,100,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Nmu,100,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Age,0.1,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,KASCADE,Age,1.48,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,CALORIMETER,Nhad,1,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,CALORIMETER,Nhad,511,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,T,-20 °,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,T,+50°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,P,960,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,P,1040 hPa,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Gt,"894,645,350",cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Gt,"1,134,213,640",cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Mt,0,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,DateTime,08-05-98,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,DateTime,12-10-05,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,R,877,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,R,5496,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Ev,1,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ASCII,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,E,1013,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,E,1019 eV,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Xc,-91,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Xc,+91 m,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Yc,-91,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Yc,+91 m,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Ze,0°,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Ze,60°,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Az,0°,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Az,360°,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Ne,100,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Nmu,100,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Age,0.1,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,KASCADE,Age,1.48,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,CALORIMETER,Nhad,1,cut,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,CALORIMETER,Nhad,511,cut,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,T,-20 °,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,T,+50°,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,P,960,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,P,1040 hPa,full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Gt,"894,645,350",cut,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Gt,"1,134,213,640",cut,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Mt,0,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,DateTime,08-05-98,cut,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,DateTime,12-10-05,cut,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,R,877,cut,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,R,5496,cut,range till
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Ev,1,full range,range from
+KASCADE-CALORR_educedData_runs_0877-5496_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,E,1013,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,E,1019 eV,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Xc,-91,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Xc,+91 m,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Yc,-91,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Yc,+91 m,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Ze,0°,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Ze,60°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Az,0°,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Az,360°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Ne,100,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Nmu,100,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Age,0.1,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,KASCADE,Age,1.48,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,CALORIMETER,Nhad,1,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,CALORIMETER,Nhad,511,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,CALORIMETER,Ehad,"0, 1010",full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,CALORIMETER,Ehad,1016 eV,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,T,-20 °,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,T,+50°,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,P,960,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,P,1040 hPa,full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Gt,"894,645,350",cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Gt,"1,134,213,640",cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Mt,0,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,DateTime,08-05-98,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,DateTime,12-10-05,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,R,877,cut,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,R,5496,cut,range till
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Ev,1,full range,range from
+KASCADE-CALOR ReducedData _runs_0877-5496_ROOT,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Xc,-500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Xc,+100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Yc,-600,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Ze,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Ze,40°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Az,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Az,360°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Nch,"11,111",full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Nmu,1500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Age,-0.385,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GRANDE,Age,+1.488,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,T,-20 °,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,T,+50°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,P,960,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,P,1040 hPa,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Gt,"1,078,737,900",cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Gt,"1,350,044,820",cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Mt,0,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,DateTime,08-03-04,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,DateTime,12-10-12,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,R,4775,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,R,7398,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Ev,1,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ASCII,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Xc,-500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Xc,+100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Yc,-600,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Ze,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Ze,40°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Az,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Az,360°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Nch,11111,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Nmu,1500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Age,-0.385,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GRANDE,Age,+1.488,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,T,-20 °,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,T,+50°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,P,960,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,P,1040 hPa,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Gt,"1,078,737,900",cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Gt,"1,350,044,820",cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Mt,0,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,DateTime,08-03-04,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,DateTime,12-10-12,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,R,4775,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,R,7398,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Ev,1,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_HDF5,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Xc,-500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Xc,+100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Yc,-600,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Ze,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Ze,40°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Az,0°,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Az,360°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Nch,11111,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Nmu,1500,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Age,-0.385,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GRANDE,Age,+1.488,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,T,-20 °,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,T,+50°,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,P,960,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,P,1040 hPa,full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Gt,"1,078,737,900",cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Gt,"1,350,044,820",cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Mt,0,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Mt,"999,999,999",full range,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,DateTime,08-03-04,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,DateTime,12-10-12,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,R,4775,cut,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,R,7398,cut,range till
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Ev,1,full range,range from
+KASCADE-GRANDE ReducedData _runs_4775- 7398_ROOT,GENERAL,Ev,"4,100,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,E,1013,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,E,1019 eV,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Xc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Xc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Yc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Yc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Ze,60°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Ne,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Nmu,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Age,0.1,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,KASCADE,Age,1.48,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Xc,-500,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Xc,+100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Yc,-600,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Ze,40°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Nch,11111,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Nmu,1500,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Age,-0.385,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,GRANDE,Age,+1.488,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,T,-20 °,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,T,+50°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,P,960,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,P,1040 hPa,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Gt,"1,256,527,520",cut,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Gt,"1,256,527,520",cut,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Mt,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Mt,"999,999,999",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,DateTime,02-12-05,cut,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,DateTime,26-10-09,cut,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,R,5534,cut,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,R,6821,cut,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Ev,1,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,general,Ev,"4,100,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,general,UUID,,full range,
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Geomag_Angle,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Geomag_AngleG,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,Reconstruction,65 or 71,full range,
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,LopesCompID,1 to 1,cut,range from
+KASCADE-LOPES_runs_5534-6821_ASCII,LOPES,LopesCompID,1 to 1,cut,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,E,1013,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,E,1019 eV,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Xc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Xc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Yc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Yc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Ze,60°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Ne,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Nmu,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Age,0.1,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,KASCADE,Age,1.48,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Xc,-500,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Xc,+100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Yc,-600,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Ze,40°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Nch,11111,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Nmu,1500,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Age,-0.385,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,GRANDE,Age,+1.488,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,T,-20 °,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,T,+50°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,P,960,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,P,1040 hPa,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Gt,"1,133,562,309",cut,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Gt,"1,256,527,520",cut,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Mt,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Mt,"999,999,999",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,DateTime,02-12-05,cut,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,DateTime,26-10-09,cut,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,R,5534,cut,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,R,6821,cut,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Ev,1,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,general,Ev,"4,100,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,general,UUID,,full range,
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Geomag_Angle,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Geomag_AngleG,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,Reconstruction,65 or 71,full range,
+KASCADE-LOPES_runs_5534-6821_HDF5,LOPES,LopesCompID,1,cut,
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,E,1013,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,E,1019 eV,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Xc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Xc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Yc,-91,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Yc,+91 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Ze,60°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Ne,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Ne,"500,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Nmu,100,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Nmu,"50,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Age,0.1,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,KASCADE,Age,1.48,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Xc,-500,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Xc,+100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Yc,-600,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Yc,+ 100 m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Ze,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Ze,40°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Az,0°,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Az,360°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Nch,11111,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Nch,"1,000,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Nmu,1500,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Nmu,"100,000,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Age,-0.385,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,GRANDE,Age,+1.488,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,T,-20 °,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,T,+50°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,P,960,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,P,1040 hPa,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Gt,"1,133,562,309",cut,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Gt,"1,256,527,520",cut,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Mt,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Mt,"999,999,999",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,DateTime,02-12-05,cut,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,DateTime,26-10-09,cut,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,R,5534,cut,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,R,6821,cut,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Ev,1,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,general,Ev,"4,100,000",full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,general,UUID,,full range,
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,EfieldAbyMax,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,EfieldAbyMax,50000.0,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,AzL_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,AzL_EW_NS,360.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,ElL_EW_NS,40,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,ElL_EW_NS,90°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,CC_Height_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,ConeAngle_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,ConeAngle_EW_NS,0.1 rad,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,NCCBeanAnt_EW_NS,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,NCCBeanAnt_EW_NS,30,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Eta_EW_NS,-0.04,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Eta_EW_NS,0.11 1/m,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Eps_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Eps_EW_NS,100.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,RMS_CCBeam_EW_NS,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,RMS_CCBeam_EW_NS,20.0 μV/m/MHz,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Geomag_Angle,0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Geomag_Angle,120 °,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Geomag_AngleG,0.0,full range,range from
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Geomag_AngleG,120.0°,full range,range till
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,Reconstruction,65 or 71,full range,
+KASCADE-LOPES_runs_5534-6821_ROOT,LOPES,LopesCompID,1,cut,
