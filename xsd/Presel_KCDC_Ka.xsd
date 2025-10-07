@@ -15,6 +15,7 @@
     <xs:all>
       <xs:element name="GENERAL" type="kcdc:GENERALQuantities" minOccurs="1"/>
       <xs:element name="KASCADE" type="kcdc:KASCADEQuantities" minOccurs="0"/>
+      <xs:element name="COMBINED" type="kcdc:KASCADEQuantities" minOccurs="0"/>
       <xs:element name="GRANDE" type="kcdc:GRANDEQuantities" minOccurs="0"/>
       <xs:element name="LOPES" type="kcdc:LOPESQuantities" minOccurs="0"/>
     </xs:all>

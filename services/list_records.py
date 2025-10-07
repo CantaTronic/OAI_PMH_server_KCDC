@@ -9,28 +9,24 @@ from services.common import (
     NSMAP,
     BASE_XML_DIRECTORY,
     tag,
+    get_identifiers_from_directory,
     mk_record,
 )
 
 
-def get_identifiers_from_directory(directory_path):
-    for filename in os.listdir(directory_path):
-        if filename.endswith(".xml"):
-            yield filename.rpartition('.')[0]
-
-
-def list_records(base_url, metadataPrefix):
+def list_records(base_url, metadataPrefix, set_):
 
     file_path = f'{BASE_XML_DIRECTORY}/expanded_ranges_with_position.csv'
     with open(file_path) as f:
         csv_string = f.read()
 
-    return True, mk_xml(base_url, metadataPrefix, csv_string)
+    return True, mk_xml(base_url, metadataPrefix, set_, csv_string)
 
 
 def mk_xml(
     base_url: str,
     metadata_prefix: str,
+    set_: str,
     csv_string: dict,
 ) -> str:
     response_time = datetime.utcnow()
@@ -48,7 +44,9 @@ def mk_xml(
     request.text = base_url
 
     body = tag(root, None, 'ListRecords')
-    for identifier in get_identifiers_from_directory(f'{BASE_XML_DIRECTORY}/{metadata_prefix}'):
+    for identifier in get_identifiers_from_directory(
+        f'{BASE_XML_DIRECTORY}/{metadata_prefix}', set_
+    ):
         mk_record(body, metadata_prefix, identifier, response_time, csv_string)
 
     return etree.tostring(

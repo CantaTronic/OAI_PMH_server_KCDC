@@ -7,11 +7,11 @@ METADATA_FORMATS = [
         'schema': 'http://www.openarchives.org/OAI/2.0/oai_dc.xsd',
         'metadataNamespace': 'http://www.openarchives.org/OAI/2.0/oai_dc/'
     },
-    {
-        'metadataPrefix': 'oai_datacite',
-        'schema':'http://schema.datacite.org/meta/kernel-4.4/metadata.xsd',
-        'metadataNamespace': 'http://datacite.org/schema/kernel-4'
-    }
+    # {
+    #     'metadataPrefix': 'oai_datacite',
+    #     'schema':'http://schema.datacite.org/meta/kernel-4.4/metadata.xsd',
+    #     'metadataNamespace': 'http://datacite.org/schema/kernel-4'
+    # },
 ]
 
 

@@ -40,8 +40,43 @@ def tag(parent, ns: str, tag: str, **kwargs) -> str:
     return etree.SubElement(parent, f"{{{NSMAP[ns]}}}{tag}", **kwargs)
 
 
+def get_identifiers_from_directory(directory_path, set_=None):
+    if set_ is not None:
+        set_ = set_.removeprefix('experimental:')
+    try:
+        for filename in sorted(os.listdir(directory_path)):
+            if set_ is not None and not filename.startswith(f'{set_}_'):
+                continue
+            if not filename.endswith(".md.xml"):
+                continue
+            yield filename.removesuffix('.md.xml')
+    except FileNotFoundError:
+        return []
+
+
+def _get_sets(BASE_XML_DIRECTORY):
+    sets = set()
+    for id in get_identifiers_from_directory(f'{BASE_XML_DIRECTORY}/oai_dc'):
+        sets.add(id.split("_")[0])
+    return sets
+
+
+def get_sets(BASE_XML_DIRECTORY):
+    return sorted(_get_sets(BASE_XML_DIRECTORY))
+
+
+def validate_set(BASE_XML_DIRECTORY, set_):
+    if set_ is None:
+        return True
+    if not set_.startswith('experimental:'):
+        return False
+    set_ = set_.removeprefix('experimental:')
+    sets = _get_sets(BASE_XML_DIRECTORY)
+    return set_ in sets
+
+
 def get_md_dc(metadata_prefix, identifier):
-    xml_file_path = f'{BASE_XML_DIRECTORY}/{metadata_prefix}/{identifier}.xml'
+    xml_file_path = f'{BASE_XML_DIRECTORY}/{metadata_prefix}/{identifier}.md.xml'
 
     # if not os.path.isfile(xml_file_path):
         # return f'No item found with this identifier {identifier} ({xml_file_path})'
@@ -83,7 +118,7 @@ def mk_record(
         tag(md, 'dc', k).text = v
 
     # Custom elements
-    md_kcdc = extract_kcdc_tags(csv_string, identifier.partition('.')[0])
+    md_kcdc = extract_kcdc_tags(csv_string, identifier)
     for k, v in md_kcdc.items():
         setup = tag(md, 'kcdc_preselects', k)
         for k1, v1 in v.items():

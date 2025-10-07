@@ -3,6 +3,7 @@ from jinja2 import Template
 from datetime import datetime
 
 from services.get_record import BASE_XML_DIRECTORY
+from services.common import get_identifiers_from_directory
 
 list_identifiers_template = """
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
@@ -25,20 +26,10 @@ list_identifiers_template = """
 """
 
 
-def get_identifiers_from_directory(directory):
-    try:
-        identifiers = sorted(
-            os.path.splitext(file)[0]
-            for file in os.listdir(directory)
-            if file.endswith('.xml')
-        )
-        return identifiers
-    except FileNotFoundError:
-        return []
-
-
-def list_identifiers(base_url, metadata_prefix):
-    identifiers = get_identifiers_from_directory(f'{BASE_XML_DIRECTORY}/{metadata_prefix}')
+def list_identifiers(base_url, metadata_prefix, set_):
+    identifiers = list(get_identifiers_from_directory(
+        f'{BASE_XML_DIRECTORY}/{metadata_prefix}', set_
+    ))
 
     context = {
         "response_date": datetime.utcnow().isoformat() + "Z",
